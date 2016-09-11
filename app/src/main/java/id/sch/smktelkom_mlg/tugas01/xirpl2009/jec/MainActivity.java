@@ -99,15 +99,7 @@ public class MainActivity extends AppCompatActivity {
 
         String usia = etUsia.getText().toString();
 
-        if (usia.isEmpty())
-        {
-            etUsia.setError("Umur belum diisi");
-            valid = false;
-        }
-        else
-        {
-            etUsia.setError(null);
-        }
+
         return valid;
     }
 }
