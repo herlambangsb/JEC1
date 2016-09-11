@@ -58,7 +58,11 @@ public class MainActivity extends AppCompatActivity {
             tvhasil5.setText(hasil5);
 
             String hasil3 = null;
-
+        if (laki.isChecked()) {
+            hasil3 = laki.getText().toString();
+        } else if (perem.isChecked()) {
+            hasil3 = perem.getText().toString();
+        }
             if (hasil3 == null)
             {
                 tvhasil3.setText("Anda belum memilih Gender");
