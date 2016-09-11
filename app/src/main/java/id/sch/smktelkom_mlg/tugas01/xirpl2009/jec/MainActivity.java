@@ -1,7 +1,7 @@
 package id.sch.smktelkom_mlg.tugas01.xirpl2009.jec;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
@@ -58,14 +58,7 @@ public class MainActivity extends AppCompatActivity {
             tvhasil5.setText(hasil5);
 
             String hasil3 = null;
-            if(laki.isChecked())
-            {
-                hasil3 = laki.getText().toString();
-            }
-            else if(perem.isChecked())
-            {
-                hasil3 = perem.getText().toString();
-            }
+
             if (hasil3 == null)
             {
                 tvhasil3.setText("Anda belum memilih Gender");
