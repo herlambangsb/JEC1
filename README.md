@@ -1,3 +1,2 @@
-# JEC1
-![GitHub Logo](D/Android/Capture.png)
-Format: ![Alt Text](url)
+
+https://drive.google.com/file/d/0B3BUUzQcMoLDdmNxeDNCNDk1Skk/view?usp=sharing
