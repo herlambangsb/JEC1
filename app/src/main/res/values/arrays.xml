@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kota">
+        <item>Banyuwangi</item>
+        <item>Blitar</item>
+        <item>Bojonegoro</item>
+        <item>Gresik</item>
+        <item>Jember</item>
+        <item>Jombang</item>
+        <item>Kediri</item>
+        <item>Lamongan</item>
+        <item>Lumajang</item>
+        <item>Madiun</item>
+        <item>Magetan</item>
+        <item>Mojokerto</item>
+        <item>Nganjuk</item>
+        <item>Ngawi</item>
+        <item>Pacitan</item>
+        <item>Pasuruan</item>
+        <item>Ponorogo</item>
+        <item>Probolinggo</item>
+        <item>Sidoarjo</item>
+        <item>Situbondo</item>
+        <item>Trenggalek</item>
+        <item>Tuban</item>
+        <item>Tulungagung</item>
+        <item>Surabaya</item>
+
+    </string-array>
+</resources>
